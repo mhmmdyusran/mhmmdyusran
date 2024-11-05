@@ -1,3 +1,7 @@
+# Welcome to my GitHub profile! 👋
+
+I am a web developer currently learning various programming languages. Follow me to witness my journey in the world of coding and development!
+
 ### 🚀 Tech Stack
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![AMP HTML](https://img.shields.io/badge/-AMP%20HTML-005AF0?style=flat&logo=amp&logoColor=white)
