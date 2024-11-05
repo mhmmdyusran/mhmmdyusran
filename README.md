@@ -1,6 +1,12 @@
-# Welcome to my GitHub profile! 👋
+# Hello, My Name Is Muhammad Yusran! 👋
 
-I am a web developer currently learning various programming languages. Follow me to witness my journey in the world of coding and development!
+Welcome to my Github Profile. I am a web developer currently learning various programming languages. Follow me to witness my journey in the world of coding and development!
+
+---
+
+## 🧑‍💻 About Me
+
+___
 
 ### 🚀 Tech Stack
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -17,7 +23,7 @@ I am a web developer currently learning various programming languages. Follow me
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 
-___
+---
 
 ### 📚 Things I Want to Learn
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
@@ -27,9 +33,11 @@ ___
 ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
 
-___
+---
 
 ## 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhmmdyusran&layout=compact&langs_count=10&theme=dark" />
 </p>
+
+___
