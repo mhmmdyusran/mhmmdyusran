@@ -1,4 +1,4 @@
-# Hello, My Name Is Muhammad Yusran! 👋
+# Muhammad Yusran
 
 Welcome to my Github Profile. I am a web developer currently learning various programming languages. Follow me to witness my journey in the world of coding and development!
 
