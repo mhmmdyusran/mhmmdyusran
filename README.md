@@ -100,11 +100,11 @@ I hope to be able to use this editor & tools later:
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhmmdyusran&layout=compact&langs_count=10&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhmmdyusran&layout=compact&langs_count=10&theme=dark&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mhmmdyusran&count_private=true&show_icons=true&theme=dark&hide_title=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mhmmdyusran&count_private=true&show_icons=true&theme=dark&hide_title=true&hide_border=true" />
 </p>
 
 ---
