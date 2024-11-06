@@ -16,6 +16,7 @@ Here are the languages and frameworks I currently work with:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
 ![NPM](https://img.shields.io/badge/-NPM-CB3837?style=flat&logo=npm&logoColor=white)
 ![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
@@ -43,6 +44,7 @@ I’m constantly pushing myself to learn new languages and frameworks. Here are 
 
 ![Dart](https://img.shields.io/badge/-Dart-00BFFF?style=flat&logo=dart&logoColor=white)
 ![ASP.NET](https://img.shields.io/badge/-ASP.NET-5C2D91?style=flat&logo=asp.net&logoColor=white)
+![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
