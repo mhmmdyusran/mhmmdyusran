@@ -61,16 +61,20 @@ I’m constantly pushing myself to learn new languages and frameworks. Here are 
 
 These are the tools I use for my development workflow:
 
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![SPCK Editor](https://img.shields.io/badge/SPCK%20Editor-4E7C5C?style=flat&logo=html5&logoColor=white)
 ![Acode](https://img.shields.io/badge/Acode-FF7F00?style=flat&logo=android&logoColor=white)
 ![Termux](https://img.shields.io/badge/Termux-2BBF00?style=flat)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-FF61F6?style=flat&logo=adobe-xd&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+
+I hope to be able to use this later :
+
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-FF61F6?style=flat&logo=adobe-xd&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-DA5B0B?style=flat&logo=jupyter&logoColor=white)
 
@@ -92,6 +96,6 @@ These are the tools I use for my development workflow:
 
 Feel free to reach out to me on my social media or follow me on my coding journey!
 
-[LinkedIn](https://www.linkedin.com/in/your-profile) | [Twitter](https://twitter.com/your-profile) | [Portfolio](https://your-portfolio-link)
+[Whatsapp](https://wa.me/6285822049880)
 
 ---
