@@ -92,11 +92,11 @@ I hope to be able to use this editor & tools later:
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=malfurra&theme=dark&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mhmmdyusran&theme=dark&hide_border=true" />
 </p>
 
 <p align="center">  
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=malfurra&theme=dark" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mhmmdyusran&theme=dark" />
 </p>
 
 <p align="center">
