@@ -109,6 +109,13 @@ I hope to be able to use this editor & tools later:
 
 ---
 
+## 👥 My Friend
+
+@firrsatoru
+@malfurra
+
+---
+
 ## 🌐 Connect with Me
 
 Feel free to reach out to me on my social media or follow me on my coding journey!
