@@ -36,6 +36,7 @@ Here are the languages and frameworks I currently work with:
 ![Angular](https://img.shields.io/badge/-Angular-D52C2D?style=flat&logo=angular&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Dart](https://img.shields.io/badge/-Dart-00BFFF?style=flat&logo=dart&logoColor=white)
 
 ---
 
@@ -43,7 +44,6 @@ Here are the languages and frameworks I currently work with:
 
 I’m constantly pushing myself to learn new languages and frameworks. Here are the ones I want to master next:
 
-![Dart](https://img.shields.io/badge/-Dart-00BFFF?style=flat&logo=dart&logoColor=white)
 ![ASP.NET](https://img.shields.io/badge/-ASP.NET-5C2D91?style=flat&logo=asp.net&logoColor=white)
 ![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
