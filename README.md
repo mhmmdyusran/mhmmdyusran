@@ -32,7 +32,6 @@ Welcome to my Github Profile. I am a web developer currently learning various pr
 ---
 
 ## 🖥 Tools
-![SPCK Editor](https://img.shields.io/badge/SPCK%20Editor-4E7C5C?style=flat)
 ![SPCK Editor](https://img.shields.io/badge/SPCK%20Editor-4E7C5C?style=flat&logo=html5&logoColor=white)
 ![Acode](https://img.shields.io/badge/Acode-FF7F00?style=flat&logo=android&logoColor=white)
 ![Termux](https://img.shields.io/badge/Termux-2BBF00?style=flat&logo=linux&logoColor=white)
