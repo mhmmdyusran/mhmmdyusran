@@ -111,8 +111,9 @@ I hope to be able to use this editor & tools later:
 
 ## 👥 My Friend
 
-@firrsatoru
-@malfurra
+[@firrsatoru](https://github.com/firrsatoru)
+<br>
+[@malfurra](https://github.com/malfurra)
 
 ---
 
