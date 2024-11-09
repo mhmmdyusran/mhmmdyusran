@@ -56,7 +56,6 @@ I’m constantly pushing myself to learn new languages and frameworks. Here are 
 ![Swift](https://img.shields.io/badge/-Swift-FFA500?style=flat&logo=swift&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
-![NoSQL](https://img.shields.io/badge/-NoSQL-E34F26?style=flat&logo=nosql&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-42b883?style=flat&logo=vue.js&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 ![Ruby on Rails](https://img.shields.io/badge/-Ruby%20on%20Rails-C72C31?style=flat&logo=ruby&logoColor=white)
