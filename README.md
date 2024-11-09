@@ -49,6 +49,7 @@ I’m constantly pushing myself to learn new languages and frameworks. Here are 
 ![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
 ![Perl](https://img.shields.io/badge/-Perl-000000?style=flat&logo=perl&logoColor=white)
 ![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat&logo=oracle&logoColor=white)
