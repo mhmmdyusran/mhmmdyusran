@@ -1,7 +1,7 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm [Your Name]
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, Welcome to my Github profile
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C33F7&center=true&vCenter=true&random=false&width=440&lines=Software+Developer;DevOps+Enthusiast;Open+Source+Contributor;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C33F7&center=true&vCenter=true&random=false&width=440&lines=Website+Developer;Full+Stack;Open+Source+Contributor;Always+Learning+New+Things" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -18,15 +18,13 @@
 
 ```javascript
 const developer = {
-  name: "Your Name",
-  location: "Your City, Country",
+  name: "Muhammad Yusran",
+  country: "Indonesia",
   role: "Full Stack Developer",
-  education: "Computer Science Degree",
   workingHours: "24/7",
-  specialization: ["Web Development", "DevOps", "Cloud Architecture"],
-  interests: ["Open Source", "AI/ML", "UI/UX Design", "Blockchain"],
-  currentFocus: "Building scalable microservices",
-  funFact: "I code better with coffee ☕",
+  specialization: ["Web Development", "Frontend", "Backend"],
+  currentFocus: "Learning NextJS",
+  funFact: "I code better with coffee ☕ and music🎵",
 };
 ```
 
@@ -149,21 +147,21 @@ const developer = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mhmmdyusran&show_icons=true&theme=radical" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhmmdyusran&layout=compact&theme=radical" alt="Top Languages" height="170" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mhmmdyusran&theme=radical" alt="GitHub Streak" />
 </div>
 
 <details>
   <summary>⚙️ Detailed GitHub Activity</summary>
   <br>
   
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yourusername&theme=monokai" alt="Activity Graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mhmmdyusran&theme=monokai" alt="Activity Graph" />
   
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=onedark&column=7" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=mhmmdyusran&theme=onedark&column=7" alt="Trophies" />
 </details>
 
 ---
@@ -176,7 +174,7 @@ const developer = {
       <h3 align="center">Project 1</h3>
       <div align="center">
         <a href="https://github.com/yourusername/project1" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project1&theme=radical" alt="Project 1" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=mhmmdyusran&repo=project1&theme=radical" alt="Project 1" />
         </a>
         <p><strong>Tech Stack:</strong> React, Node.js, MongoDB</p>
         <p>A full-stack application for managing tasks with real-time collaboration features</p>
@@ -186,7 +184,7 @@ const developer = {
       <h3 align="center">Project 2</h3>
       <div align="center">
         <a href="https://github.com/yourusername/project2" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project2&theme=radical" alt="Project 2" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=mhmmdyusran&repo=project2&theme=radical" alt="Project 2" />
         </a>
         <p><strong>Tech Stack:</strong> Vue.js, Firebase, TailwindCSS</p>
         <p>A real-time chat application with end-to-end encryption</p>
@@ -198,7 +196,7 @@ const developer = {
       <h3 align="center">Project 3</h3>
       <div align="center">
         <a href="https://github.com/yourusername/project3" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project3&theme=radical" alt="Project 3" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=mhmmdyusran&repo=project3&theme=radical" alt="Project 3" />
         </a>
         <p><strong>Tech Stack:</strong> Django, PostgreSQL, Docker</p>
         <p>An AI-powered content recommendation engine</p>
@@ -207,8 +205,8 @@ const developer = {
     <td width="50%">
       <h3 align="center">Project 4</h3>
       <div align="center">
-        <a href="https://github.com/yourusername/project4" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project4&theme=radical" alt="Project 4" />
+        <a href="https://github.com/mhmmdyusran/project4" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=mhmmdyusran&repo=project4&theme=radical" alt="Project 4" />
         </a>
         <p><strong>Tech Stack:</strong> Go, gRPC, Kubernetes</p>
         <p>A high-performance microservice architecture for data processing</p>
@@ -218,19 +216,19 @@ const developer = {
 </table>
 
 ---
-
+<!--
 ## 📜 Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:START
 - [Building Scalable Microservices with Go and Kubernetes](https://yourwebsite.com/blog/1)
 - [Advanced React Patterns for State Management](https://yourwebsite.com/blog/2)
 - [Implementing CI/CD Pipelines with GitHub Actions](https://yourwebsite.com/blog/3)
 - [Machine Learning Models in Production: Best Practices](https://yourwebsite.com/blog/4)
 - [Zero-Downtime Deployments with Kubernetes](https://yourwebsite.com/blog/5)
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:END 
 
 ---
-
+-->
 ## 🌱 Current Learning
 
 <p align="center">
@@ -258,7 +256,7 @@ const developer = {
 ## 📫 How to reach me
 
 <p align="center">
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:contact.mhmmdyusran@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/yourprofile">
@@ -270,7 +268,7 @@ const developer = {
   <a href="https://dev.to/yourhandle">
     <img src="https://img.shields.io/badge/DEV.TO-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" />
   </a>
-  <a href="https://calendly.com/yourusername">
+  <a href="https://calendly.com/mhmmdyusran">
     <img src="https://img.shields.io/badge/Schedule_Meeting-4285F4?style=for-the-badge&logo=google-calendar&logoColor=white" />
   </a>
 </p>
@@ -286,12 +284,12 @@ const developer = {
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=mhmmdyusran&color=blueviolet&style=for-the-badge" alt="Profile Views" />
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/github/followers/yourusername?style=for-the-badge&color=yellow" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/yourusername?style=for-the-badge&color=yellow" alt="Stars" />
+  <img src="https://img.shields.io/github/followers/mhmmdyusran?style=for-the-badge&color=yellow" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/mhmmdyusran?style=for-the-badge&color=yellow" alt="Stars" />
 </div>
 
 <h3 align="center">💖 Support My Work</h3>
@@ -305,5 +303,5 @@ const developer = {
 </p>
 
 <div align="center">
-  <sub>Built with ❤️ by [Your Name]</sub>
+  <sub>Built with ❤️ by Muhammad Yusran</sub>
 </div>
