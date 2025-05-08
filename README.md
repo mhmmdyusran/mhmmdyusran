@@ -1,7 +1,7 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, Welcome to my Github profile
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C33F7&center=true&vCenter=true&random=false&width=440&lines=Website+Developer;Full+Stack;Open+Source+Contributor;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=500&color=6C33F7&center=true&vCenter=true&random=false&width=440&lines=Website+Developer;Full+Stack;Open+Source+Contributor;Always+Learning+New+Things" alt="Typing SVG" />
 </div>
 
 <p align="center">
