@@ -149,12 +149,12 @@ const developer = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mhmmdyusran&show_icons=true&theme=radical" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mhmmdyusran&show_icons=true&theme=radical%22%20alt=%22GitHub%20Stats%22%20height=%22170" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhmmdyusran&layout=compact&theme=radical%22%20alt=%22Top%20Languages%22%20height=%22170" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mhmmdyusran&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mhmmdyusran&theme=radical%22%20alt=%22GitHub%20Streak" />
 </div>
 
 <details>
