@@ -150,7 +150,7 @@ const developer = {
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mhmmdyusran&show_icons=true&theme=radical" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhmmdyusran&layout=compact&theme=radical" alt="Top Languages" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhmmdyusran&layout=compact&theme=radical%22%20alt=%22Top%20Languages%22%20height=%22170" />
 </div>
 
 <div align="center">
