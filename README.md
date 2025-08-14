@@ -1,27 +1,27 @@
 <div align="center">
 
-<!-- ![Hi There (Light)](./hi_there_light.png#gh-dark-mode-only)
+<!-- Hi There image adaptif -->
 
-![Hi There (Dark)](./hi_there_dark.png#gh-light-mode-only) -->
+![Hi There (Dark)](./hi_there_dark.png#gh-light-mode-only)
+![Hi There (Light)](./hi_there_light.png#gh-dark-mode-only)
 
-<img src="./hi_there.png" alt="hi there" align="center">
+<br>
 
 • • •
 
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
+<br>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
+
 </div>
 
-## 👨‍💻 About Me
+#### I'm **Muhammad Yusran** (he/his)
 
-I'm a **Full Stack Developer** from **South Sulawesi, Indonesia** with a passion for turning ideas into code.  
-As a high school student with **2+ years of programming experience**, my journey began with web technologies  
-and has now expanded into **game development**. I love crafting digital solutions and exploring new technologies.
-
-When I'm not coding, you'll find me learning something new or pushing the boundaries of what I can create.
+**Intermediate Fullstack Developer**
 
 ---
 
-**📫 Let's Connect:**
+### Let's Connect
 
 <p>
   <a href="mailto:contact.mhmmdyusran@gmail.com">
@@ -34,24 +34,15 @@ When I'm not coding, you'll find me learning something new or pushing the bounda
 
 ---
 
-**📊 GitHub Statistics:**
+### GitHub Statistics
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhmmdyusran&layout=compact&theme=radical" alt="Most Used Languages" />
-</p>
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=mhmmdyusran&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mhmmdyusran&theme=radical" alt="GitHub Streak" />
-</p>
-
----
-
-<p align="center">
-  <i>✨ "Code is poetry written in logic" ✨</i>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhmmdyusran&layout=compact&theme=radical" alt="Most Used Languages" />
 </p>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
+  <br>
+  <i>✨ "Code is poetry written in logic" ✨</i>
 </div>
