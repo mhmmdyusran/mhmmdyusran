@@ -11,13 +11,10 @@
 
 </div>
 
-#### I'm **Muhammad Yusran** (he/his)
-
+<div align="center">
+  
+### I'm **Muhammad Yusran** (he/his)  
 **Intermediate Fullstack Developer**
-
----
-
-### Let's Connect
 
 <p>
   <a href="mailto:contact.mhmmdyusran@gmail.com">
@@ -28,14 +25,15 @@
   </a>
 </p>
 
+</div>
+
 ---
 
-### GitHub Statistics
-
-<p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mhmmdyusran&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhmmdyusran&layout=compact&theme=radical" alt="Most Used Languages" />
 </p>
+
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
