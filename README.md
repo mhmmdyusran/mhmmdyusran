@@ -29,8 +29,8 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mhmmdyusran&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhmmdyusran&layout=compact&theme=radical" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mhmmdyusran&show_icons=true&theme=transparent&title_color=000000&text_color=000000&icon_color=181717" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhmmdyusran&layout=compact&theme=transparent&title_color=000000&text_color=000000" alt="Most Used Languages" />
 </p>
 
 <div align="center">
