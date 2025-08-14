@@ -5,11 +5,7 @@
 ![Hi There (Dark)](./hi_there_dark.png#gh-light-mode-only)
 ![Hi There (Light)](./hi_there_light.png#gh-dark-mode-only)
 
-<br>
-
 • • •
-
-<br>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
 
