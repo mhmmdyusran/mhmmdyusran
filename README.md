@@ -1,8 +1,8 @@
 <div align="center">
 
-![Hi There (Light)](./hi_there_light.png#gh-light-mode-only)
+![Hi There (Light)](./hi_there_light.png#gh-dark-mode-only)
 
-![Hi There (Dark)](./hi_there_dark.png#gh-dark-mode-only)
+![Hi There (Dark)](./hi_there_dark.png#gh-light-mode-only)
 
 • • •
 
