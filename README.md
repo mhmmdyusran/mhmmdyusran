@@ -26,8 +26,6 @@
 
 </div>
 
----
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhmmdyusran&layout=compact&theme=tokyonight" alt="Most Used Languages" />
   <br>
