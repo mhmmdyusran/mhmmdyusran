@@ -24,14 +24,14 @@
   </a>
 </p>
 
-</div>
+<!-- </div>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhmmdyusran&layout=compact&theme=tokyonight" alt="Most Used Languages" />
   <br>
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=mhmmdyusran&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
+</p> -->
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
