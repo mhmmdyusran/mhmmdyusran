@@ -10,7 +10,7 @@
 
 </div>
 
-<div align="center">
+<!-- <div align="center">
   
 ### I'm **Muhammad Yusran** (he/his)  
 **Intermediate Fullstack Developer**
@@ -22,7 +22,7 @@
   <a href="https://wa.me/6285822049880">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
-</p>
+</p> -->
 
 <!-- </div>
 
